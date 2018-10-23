@@ -26,7 +26,7 @@ const Header = ({ strings, goToHomepage, user }) => (
     <AppBar fixed className={style.header}>
       <div className={style.titles}>
         <a onClick={goToHomepage}>
-          Retrospected <br />
+          Confabulator <br />
           <span className={style.subtitle}>{strings.subtitle}</span>
         </a>
       </div>
