@@ -1,6 +1,6 @@
 export default {
   Header: {
-    subtitle: 'A good way of ranting in an Agile way',
+    subtitle: 'Asynchronous conversations with a purpose',
     logout: 'Logout',
     leave: 'Leave',
     summaryMode: 'Summary Mode',

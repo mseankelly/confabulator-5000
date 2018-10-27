@@ -1,6 +1,6 @@
 export default {
   Header: {
-    subtitle: 'A good way of ranting in an Agile way',
+    subtitle: 'Asynchronous conversations with a purpose',
     logout: 'ログアウト',
     leave: '退室',
     summaryMode: '要約モード',
